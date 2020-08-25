@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
         String tokenString = token.getString(getString(R.string.tokenKey),"");
         ShortcutBadger.removeCount(this);
         hideKeyboardHandler(constrainLayout_main, this);
+        
         WebView webview = (WebView) findViewById(R.id.webview);
         WebSettings webSettings = webview.getSettings();
         webSettings.setJavaScriptEnabled(true);
