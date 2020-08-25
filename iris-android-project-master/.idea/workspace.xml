@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel_2" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="out" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7adaf6ab-db8a-48b9-9175-2c41abd6d966" name="Default" comment="update manager added ( still need test ) 6/18">
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/gb/iris/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/gb/iris/MainActivity.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3a_API_29_2" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/IRIS_APK_KEY" />
+    <option name="KEY_ALIAS" value="iriskey" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZVpHDl9WImCI7y87vaMz28HF8G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ApkExportedModule" value="app" />
+    <property name="BundleExportedModule" value="app" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="WUJ01S6YKS" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-05-14T08:01:39.339Z" />
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="8AXX11L5D" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.XML" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.example.gb.iris" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AndroidProjects\IRIS\app\src\main\res\drawable-v24" />
+      <recent name="D:\AndroidProjects\IRIS\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sampled (Java)" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7adaf6ab-db8a-48b9-9175-2c41abd6d966" name="Default" comment="" />
+      <created>1539746122664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539746122664</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1546487737898</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1546487737898</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add webview.onjsalert 2/5">
+      <created>1580869495674</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580869495674</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add global string version 2/5">
+      <created>1580869584645</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580869584645</updated>
+    </task>
+    <task id="LOCAL-00004" summary="gradle upload 2/5">
+      <created>1580871488564</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580871488564</updated>
+    </task>
+    <task id="LOCAL-00005" summary="api level decrease, add double back press 4/9">
+      <created>1586417163828</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586417163828</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add firebase cloud message and get token when alert call 4/23">
+      <created>1587634866410</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1587634866411</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add push token api 5/6">
+      <created>1588744077451</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1588744077452</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fb notification add img and weburl 5/6">
+      <created>1588759737464</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1588759737464</updated>
+    </task>
+    <task id="LOCAL-00009" summary="get image and redirect url finish 5/7">
+      <created>1588821228000</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1588821228000</updated>
+    </task>
+    <task id="LOCAL-00010" summary="apk level bug fix, add large img notification 5/8">
+      <created>1588932211471</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1588932211471</updated>
+    </task>
+    <task id="LOCAL-00011" summary="notification badge finish 5/11">
+      <created>1589177258514</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1589177258514</updated>
+    </task>
+    <task id="LOCAL-00012" summary="regist api url change 5/11">
+      <created>1589187492633</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1589187492633</updated>
+    </task>
+    <task id="LOCAL-00013" summary="regist alert bug fix 5/11">
+      <created>1589191477827</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1589191477827</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add notification service on stop(not used), add badge alert count 5/13">
+      <created>1589339866957</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1589339866957</updated>
+    </task>
+    <task id="LOCAL-00015" summary="badge alert bug fix 5/13">
+      <created>1589356609838</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1589356609838</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add wake lock 5/14">
+      <created>1589443552824</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1589443552824</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add update manager 6/11">
+      <created>1591862771568</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1591862771568</updated>
+    </task>
+    <task id="LOCAL-00018" summary="update manager added ( still need test ) 6/18">
+      <created>1592466805164</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1592466805164</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="add webview.onjsalert 2/5" />
+    <MESSAGE value="add global string version 2/5" />
+    <MESSAGE value="gradle upload 2/5" />
+    <MESSAGE value="api level decrease 4/9" />
+    <MESSAGE value="api level decrease, add double back press 4/9" />
+    <MESSAGE value="add firebase cloud message and get token when alert call 4/23" />
+    <MESSAGE value="add push token api 5/6" />
+    <MESSAGE value="fb notification add img and weburl 5/6" />
+    <MESSAGE value="get image and redirect url finish 5/7" />
+    <MESSAGE value="apk level bug fix, add large img notification 5/8" />
+    <MESSAGE value="notification badge finish 5/11" />
+    <MESSAGE value="regist api url change 5/11" />
+    <MESSAGE value="regist alert bug fix 5/11" />
+    <MESSAGE value="add notification service on stop(not used), add badge alert count 5/13" />
+    <MESSAGE value="badge alert bug fix 5/13" />
+    <MESSAGE value="add wake lock 5/14" />
+    <MESSAGE value="add update manager 6/11" />
+    <MESSAGE value="update manager added ( still need test ) 6/18" />
+    <option name="LAST_COMMIT_MESSAGE" value="update manager added ( still need test ) 6/18" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="14" y="52" key="CommitChangelistDialog2" timestamp="1592466804801">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="14" y="52" key="CommitChangelistDialog2/0.0.1440.900/-1920.-713.1920.1080@0.0.1440.900" timestamp="1592466804801" />
+    <state width="1398" height="275" key="GridCell.Tab.0.bottom" timestamp="1592447475335">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.-690.1920.1057@0.0.1440.900" timestamp="1591854363128" />
+    <state width="1398" height="275" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.-713.1920.1080@0.0.1440.900" timestamp="1592447475335" />
+    <state width="1398" height="265" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-690.1920.1057@0.23.1440.877" timestamp="1592447087409" />
+    <state width="1398" height="275" key="GridCell.Tab.0.center" timestamp="1592447475334">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.center/0.0.1440.900/-1920.-690.1920.1057@0.0.1440.900" timestamp="1591854363126" />
+    <state width="1398" height="275" key="GridCell.Tab.0.center/0.0.1440.900/-1920.-713.1920.1080@0.0.1440.900" timestamp="1592447475334" />
+    <state width="1398" height="265" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-690.1920.1057@0.23.1440.877" timestamp="1592447087408" />
+    <state width="1398" height="275" key="GridCell.Tab.0.left" timestamp="1592447475333">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.left/0.0.1440.900/-1920.-690.1920.1057@0.0.1440.900" timestamp="1591854363126" />
+    <state width="1398" height="275" key="GridCell.Tab.0.left/0.0.1440.900/-1920.-713.1920.1080@0.0.1440.900" timestamp="1592447475333" />
+    <state width="1398" height="265" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-690.1920.1057@0.23.1440.877" timestamp="1592447087407" />
+    <state width="1398" height="275" key="GridCell.Tab.0.right" timestamp="1592447475335">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.right/0.0.1440.900/-1920.-690.1920.1057@0.0.1440.900" timestamp="1591854363127" />
+    <state width="1398" height="275" key="GridCell.Tab.0.right/0.0.1440.900/-1920.-713.1920.1080@0.0.1440.900" timestamp="1592447475335" />
+    <state width="1398" height="265" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-690.1920.1057@0.23.1440.877" timestamp="1592447087409" />
+    <state width="1398" height="275" key="GridCell.Tab.1.bottom" timestamp="1592447475337">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.1.bottom/0.0.1440.900/-1920.-690.1920.1057@0.0.1440.900" timestamp="1591854363131" />
+    <state width="1398" height="275" key="GridCell.Tab.1.bottom/0.0.1440.900/-1920.-713.1920.1080@0.0.1440.900" timestamp="1592447475337" />
+    <state width="1398" height="275" key="GridCell.Tab.1.bottom/0.23.1440.877/-1920.-690.1920.1057@0.23.1440.877" timestamp="1592297554030" />
+    <state width="1398" height="275" key="GridCell.Tab.1.center" timestamp="1592447475336">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.1.center/0.0.1440.900/-1920.-690.1920.1057@0.0.1440.900" timestamp="1591854363129" />
+    <state width="1398" height="275" key="GridCell.Tab.1.center/0.0.1440.900/-1920.-713.1920.1080@0.0.1440.900" timestamp="1592447475336" />
+    <state width="1398" height="275" key="GridCell.Tab.1.center/0.23.1440.877/-1920.-690.1920.1057@0.23.1440.877" timestamp="1592297554029" />
+    <state width="1398" height="275" key="GridCell.Tab.1.left" timestamp="1592447475336">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.1.left/0.0.1440.900/-1920.-690.1920.1057@0.0.1440.900" timestamp="1591854363129" />
+    <state width="1398" height="275" key="GridCell.Tab.1.left/0.0.1440.900/-1920.-713.1920.1080@0.0.1440.900" timestamp="1592447475336" />
+    <state width="1398" height="275" key="GridCell.Tab.1.left/0.23.1440.877/-1920.-690.1920.1057@0.23.1440.877" timestamp="1592297554028" />
+    <state width="1398" height="275" key="GridCell.Tab.1.right" timestamp="1592447475337">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.1.right/0.0.1440.900/-1920.-690.1920.1057@0.0.1440.900" timestamp="1591854363130" />
+    <state width="1398" height="275" key="GridCell.Tab.1.right/0.0.1440.900/-1920.-713.1920.1080@0.0.1440.900" timestamp="1592447475337" />
+    <state width="1398" height="275" key="GridCell.Tab.1.right/0.23.1440.877/-1920.-690.1920.1057@0.23.1440.877" timestamp="1592297554029" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1592466808496">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.-713.1920.1080@0.0.1440.900" timestamp="1592466808496" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

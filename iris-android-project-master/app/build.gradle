@@ -1,0 +1,52 @@
+apply plugin: 'com.android.application'
+
+apply plugin: 'kotlin-android'
+
+apply plugin: 'kotlin-android-extensions'
+
+apply plugin: 'com.google.gms.google-services'
+
+android {
+    compileSdkVersion 29
+    defaultConfig {
+        applicationId "gb.iris"
+        minSdkVersion 22
+        targetSdkVersion 29
+        versionCode 108
+        versionName "1.0.8"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+    implementation 'com.android.support:appcompat-v7:28.0.0'
+    implementation 'com.android.support.constraint:constraint-layout:1.1.3'
+    implementation 'androidx.appcompat:appcompat:1.1.0'
+    implementation 'com.google.android.play:core-ktx:1.6.4'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'com.android.support.test:runner:1.0.2'
+    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+//    androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.0'
+//    androidTestImplementation 'androidx.test:core-ktx:1.2.0'
+//    androidTestImplementation 'androidx.test.ext:junit-ktx:1.1.1'
+
+
+    //Third part packages-----
+    implementation "org.jetbrains.anko:anko:$anko_version"
+    implementation "org.jetbrains.anko:anko-design:$anko_version"
+    implementation "org.jetbrains.anko:anko-commons:$anko_version"
+    implementation 'com.google.firebase:firebase-analytics:17.2.2'
+    implementation 'com.google.firebase:firebase-messaging:20.1.5'
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+    implementation "com.squareup.okhttp3:okhttp:4.6.0"
+    implementation 'com.google.code.gson:gson:2.8.5'
+    implementation "me.leolin:ShortcutBadger:1.1.22@aar"
+    implementation 'com.google.android.play:core:1.6.3'
+}

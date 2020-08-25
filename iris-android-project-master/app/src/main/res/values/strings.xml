@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IRIS</string>
+    <string name="version">1.0.4</string>
+    <string name="tokenKey">IRIS_TOKEN_KEY</string>
+    <string name="companyId">64</string>
+    <string name="redirectUrlKey">REDIRECT_URL_KEY</string>
+    <string name="apiHost">http://60.250.27.21:7000</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "103586167838",
+    "firebase_url": "https://iris-app-f96dc.firebaseio.com",
+    "project_id": "iris-app-f96dc",
+    "storage_bucket": "iris-app-f96dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103586167838:android:3fd02b5554ecc9e13d020f",
+        "android_client_info": {
+          "package_name": "gb.iris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103586167838-dvb13scl02cckkihhu49rdiki62r6hvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLNDddNWf9tDM1ULQaRVaAC8YAZdtf4nA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103586167838-dvb13scl02cckkihhu49rdiki62r6hvi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "103586167838-38l3r6bc70tkl95mo6230d9fafnh43m0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.irisfamily.IRIS",
+                "app_store_id": "1447468944"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
