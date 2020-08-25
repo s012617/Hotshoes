@@ -16,47 +16,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7adaf6ab-db8a-48b9-9175-2c41abd6d966" name="Default" comment="update manager added ( still need test ) 6/18">
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/androidTest/java/tw/comgbtech/irisdemo/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/java/tw/comgbtech/irisdemo/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/test/java/tw/comgbtech/irisdemo/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IRISDemo/settings.gradle" beforeDir="false" />
-    </list>
+    <list default="true" id="7adaf6ab-db8a-48b9-9175-2c41abd6d966" name="Default" comment="update manager added ( still need test ) 6/18" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
