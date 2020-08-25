@@ -8,6 +8,7 @@ import android.content.Intent
 import android.content.IntentSender
 import android.os.Build
 import android.os.Bundle
+import android.util.Log
 import android.webkit.JsResult
 import android.webkit.WebChromeClient
 import android.webkit.WebView
@@ -41,6 +42,7 @@ class MainActivity : AppCompatActivity() {
     private val FLEXIBLE_REQUEST_CODE = 1029
     private val IMMEDIATE_REQUEST_CODE = 1028
 
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
@@ -64,12 +66,14 @@ class MainActivity : AppCompatActivity() {
                 message: String?,
                 result: JsResult
             ): Boolean {
+                Log.d("msg",message);
                 if (!message.isNullOrEmpty()) {
                     val dialog: AlertDialog =
                         AlertDialog.Builder(view.context).setTitle("Oops !").setMessage(message)
                             .setPositiveButton("OK",
                                 DialogInterface.OnClickListener { _, _ ->
                                 }).create()
+                    //
                     if (message.contains("id:")) {
                         if (token!!.isNotEmpty()) {
                             postRegister(

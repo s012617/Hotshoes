@@ -2,13 +2,12 @@
 <project version="4">
   <component name="AndroidLayouts">
     <shared>
-      <config>
-        <device id="pixel_2" />
-      </config>
+      <config />
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="out" />
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="msg" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="CMakeSettings">
@@ -18,19 +17,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7adaf6ab-db8a-48b9-9175-2c41abd6d966" name="Default" comment="update manager added ( still need test ) 6/18">
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/gb/iris/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/gb/iris/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/androidTest/java/tw/comgbtech/irisdemo/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/java/tw/comgbtech/irisdemo/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/app/src/test/java/tw/comgbtech/irisdemo/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRISDemo/settings.gradle" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3a_API_29_2" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3_API_28" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -60,7 +92,7 @@
     <option name="BUILD_TARGET_KEY" value="apk" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1ZVpHDl9WImCI7y87vaMz28HF8G" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -78,6 +110,7 @@
     <property name="ExportApk.BuildVariants" value="release" />
     <property name="ExportApk.SignV1" value="true" />
     <property name="ExportApk.SignV2" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="device.picker.selection" value="8AXX11L5D" />
@@ -87,7 +120,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.XML" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -328,6 +361,17 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="text">
+                    <value>
+                      <list>
+                        <option value="msg" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
@@ -358,31 +402,43 @@
     <option name="LAST_COMMIT_MESSAGE" value="update manager added ( still need test ) 6/18" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="529" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1598325566102">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="529" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1598325566102" />
+    <state x="263" y="19" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1598325560822">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="19" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1366.728@0.0.1366.728" timestamp="1598325560822" />
     <state x="14" y="52" key="CommitChangelistDialog2" timestamp="1592466804801">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="14" y="52" key="CommitChangelistDialog2/0.0.1440.900/-1920.-713.1920.1080@0.0.1440.900" timestamp="1592466804801" />
-    <state width="1398" height="275" key="GridCell.Tab.0.bottom" timestamp="1592447475335">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1598327087937">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598327087937" />
     <state width="1398" height="223" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.-690.1920.1057@0.0.1440.900" timestamp="1591854363128" />
     <state width="1398" height="275" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.-713.1920.1080@0.0.1440.900" timestamp="1592447475335" />
     <state width="1398" height="265" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-690.1920.1057@0.23.1440.877" timestamp="1592447087409" />
-    <state width="1398" height="275" key="GridCell.Tab.0.center" timestamp="1592447475334">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1598327087937">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598327087937" />
     <state width="1398" height="223" key="GridCell.Tab.0.center/0.0.1440.900/-1920.-690.1920.1057@0.0.1440.900" timestamp="1591854363126" />
     <state width="1398" height="275" key="GridCell.Tab.0.center/0.0.1440.900/-1920.-713.1920.1080@0.0.1440.900" timestamp="1592447475334" />
     <state width="1398" height="265" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-690.1920.1057@0.23.1440.877" timestamp="1592447087408" />
-    <state width="1398" height="275" key="GridCell.Tab.0.left" timestamp="1592447475333">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1598327087937">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598327087937" />
     <state width="1398" height="223" key="GridCell.Tab.0.left/0.0.1440.900/-1920.-690.1920.1057@0.0.1440.900" timestamp="1591854363126" />
     <state width="1398" height="275" key="GridCell.Tab.0.left/0.0.1440.900/-1920.-713.1920.1080@0.0.1440.900" timestamp="1592447475333" />
     <state width="1398" height="265" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-690.1920.1057@0.23.1440.877" timestamp="1592447087407" />
-    <state width="1398" height="275" key="GridCell.Tab.0.right" timestamp="1592447475335">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1598327087937">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598327087937" />
     <state width="1398" height="223" key="GridCell.Tab.0.right/0.0.1440.900/-1920.-690.1920.1057@0.0.1440.900" timestamp="1591854363127" />
     <state width="1398" height="275" key="GridCell.Tab.0.right/0.0.1440.900/-1920.-713.1920.1080@0.0.1440.900" timestamp="1592447475335" />
     <state width="1398" height="265" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-690.1920.1057@0.23.1440.877" timestamp="1592447087409" />
@@ -410,25 +466,13 @@
     <state width="1398" height="223" key="GridCell.Tab.1.right/0.0.1440.900/-1920.-690.1920.1057@0.0.1440.900" timestamp="1591854363130" />
     <state width="1398" height="275" key="GridCell.Tab.1.right/0.0.1440.900/-1920.-713.1920.1080@0.0.1440.900" timestamp="1592447475337" />
     <state width="1398" height="275" key="GridCell.Tab.1.right/0.23.1440.877/-1920.-690.1920.1057@0.23.1440.877" timestamp="1592297554029" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1598325506615">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598325506615" />
     <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1592466808496">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.-713.1920.1080@0.0.1440.900" timestamp="1592466808496" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

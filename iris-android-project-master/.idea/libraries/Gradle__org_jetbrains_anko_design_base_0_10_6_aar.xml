@@ -1,8 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: org.jetbrains.anko:design-base:0.10.6@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a3f384ec248ec985b40ba3befb8321cc/jetified-design-base-0.10.6/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a3f384ec248ec985b40ba3befb8321cc/jetified-design-base-0.10.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fce3a6195b670e8eb118a743ee6f1097/jetified-design-base-0.10.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fce3a6195b670e8eb118a743ee6f1097/jetified-design-base-0.10.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fce3a6195b670e8eb118a743ee6f1097/jetified-design-base-0.10.6/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
